@@ -1,0 +1,14 @@
+obj\Debug\Bicera_Project_Finals.exe
+obj\Debug\Bicera_Project_Finals.xml
+obj\Debug\Bicera_Project_Finals.pdb
+bin\Debug\Bicera_Project_Finals.exe
+bin\Debug\Bicera_Project_Finals.pdb
+bin\Debug\Bicera_Project_Finals.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Bicera_Project_Finals.LOGIN.resources
+obj\Debug\Bicera_Project_Finals.Manager.resources
+obj\Debug\Bicera_Project_Finals.Resources.resources
+obj\Debug\Bicera_Project_Finals.Teller.resources
+obj\Debug\Bicera_Project_Finals.vbproj.GenerateResource.Cache
+obj\Debug\Bicera_Project_Finals.Edit_Name.resources
+obj\Debug\Bicera_Project_Finals.Edit_Name2.resources

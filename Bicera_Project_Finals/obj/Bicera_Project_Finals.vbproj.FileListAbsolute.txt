@@ -1,0 +1,114 @@
+C:\Users\kier\Desktop\Bicera_Project_Finals\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.exe
+C:\Users\kier\Desktop\Bicera_Project_Finals\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.xml
+C:\Users\kier\Desktop\Bicera_Project_Finals\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.pdb
+C:\Users\kier\Desktop\Bicera_Project_Finals\Bicera_Project_Finals\bin\Debug\Bicera_Project_Finals.exe
+C:\Users\kier\Desktop\Bicera_Project_Finals\Bicera_Project_Finals\bin\Debug\Bicera_Project_Finals.pdb
+C:\Users\kier\Desktop\Bicera_Project_Finals\Bicera_Project_Finals\bin\Debug\Bicera_Project_Finals.xml
+C:\Users\kier\Desktop\Bicera_Project_Finals\Bicera_Project_Finals\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kier\Desktop\Bicera_Project_Finals\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.LOGIN.resources
+C:\Users\kier\Desktop\Bicera_Project_Finals\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Resources.resources
+C:\Users\kier\Desktop\Bicera_Project_Finals\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.vbproj.GenerateResource.Cache
+C:\Users\kier\Desktop\IT7\Bicera_Project_Finals\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.exe
+C:\Users\kier\Desktop\IT7\Bicera_Project_Finals\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.xml
+C:\Users\kier\Desktop\IT7\Bicera_Project_Finals\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.pdb
+C:\Users\kier\Desktop\IT7\Bicera_Project_Finals\Bicera_Project_Finals\bin\Debug\Bicera_Project_Finals.exe
+C:\Users\kier\Desktop\IT7\Bicera_Project_Finals\Bicera_Project_Finals\bin\Debug\Bicera_Project_Finals.pdb
+C:\Users\kier\Desktop\IT7\Bicera_Project_Finals\Bicera_Project_Finals\bin\Debug\Bicera_Project_Finals.xml
+C:\Users\kier\Desktop\IT7\Bicera_Project_Finals\Bicera_Project_Finals\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kier\Desktop\IT7\Bicera_Project_Finals\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.LOGIN.resources
+C:\Users\kier\Desktop\IT7\Bicera_Project_Finals\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Resources.resources
+C:\Users\kier\Desktop\IT7\Bicera_Project_Finals\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.vbproj.GenerateResource.Cache
+C:\Users\kier\Desktop\IT7\Bicera_Project_Finals\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Teller.resources
+C:\Users\kier\Desktop\IT7\Bicera_Project_Finals\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Manager.resources
+E:\ \Bicera_Project_Finals\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.exe
+E:\ \Bicera_Project_Finals\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.xml
+E:\ \Bicera_Project_Finals\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.pdb
+E:\ \Bicera_Project_Finals\Bicera_Project_Finals\bin\Debug\Bicera_Project_Finals.exe
+E:\ \Bicera_Project_Finals\Bicera_Project_Finals\bin\Debug\Bicera_Project_Finals.pdb
+E:\ \Bicera_Project_Finals\Bicera_Project_Finals\bin\Debug\Bicera_Project_Finals.xml
+E:\ \Bicera_Project_Finals\Bicera_Project_Finals\obj\Debug\ResolveAssemblyReference.cache
+E:\ \Bicera_Project_Finals\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Admin_Login.resources
+E:\ \Bicera_Project_Finals\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Admin_Login2.resources
+E:\ \Bicera_Project_Finals\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.LOGIN.resources
+E:\ \Bicera_Project_Finals\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Manager.resources
+E:\ \Bicera_Project_Finals\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Resources.resources
+E:\ \Bicera_Project_Finals\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Register.resources
+E:\ \Bicera_Project_Finals\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Teller.resources
+E:\ \Bicera_Project_Finals\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.up.resources
+E:\ \Bicera_Project_Finals\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.vbproj.GenerateResource.Cache
+C:\Users\kier\Desktop\Bicera_Project_Finals\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Manager.resources
+C:\Users\kier\Desktop\Bicera_Project_Finals\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Teller.resources
+C:\Users\kier\Desktop\Bicera_Project_Finals\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Edit_Name.resources
+C:\Users\kier\Desktop\Bicera_Project_Finals\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Edit_Name2.resources
+C:\Users\kier\Desktop\IT7\Bicera_Project_Finals2\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.exe
+C:\Users\kier\Desktop\IT7\Bicera_Project_Finals2\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.xml
+C:\Users\kier\Desktop\IT7\Bicera_Project_Finals2\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.pdb
+C:\Users\kier\Desktop\IT7\Bicera_Project_Finals2\Bicera_Project_Finals\bin\Debug\Bicera_Project_Finals.exe
+C:\Users\kier\Desktop\IT7\Bicera_Project_Finals2\Bicera_Project_Finals\bin\Debug\Bicera_Project_Finals.pdb
+C:\Users\kier\Desktop\IT7\Bicera_Project_Finals2\Bicera_Project_Finals\bin\Debug\Bicera_Project_Finals.xml
+C:\Users\kier\Desktop\IT7\Bicera_Project_Finals2\Bicera_Project_Finals\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kier\Desktop\IT7\Bicera_Project_Finals2\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Edit_Name.resources
+C:\Users\kier\Desktop\IT7\Bicera_Project_Finals2\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Edit_Name2.resources
+C:\Users\kier\Desktop\IT7\Bicera_Project_Finals2\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.LOGIN.resources
+C:\Users\kier\Desktop\IT7\Bicera_Project_Finals2\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Manager.resources
+C:\Users\kier\Desktop\IT7\Bicera_Project_Finals2\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Resources.resources
+C:\Users\kier\Desktop\IT7\Bicera_Project_Finals2\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Teller.resources
+C:\Users\kier\Desktop\IT7\Bicera_Project_Finals2\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.vbproj.GenerateResource.Cache
+C:\Users\kier\Desktop\IT7\Bicera_Project_Finals\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Edit_Name.resources
+C:\Users\kier\Desktop\IT7\Bicera_Project_Finals\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Edit_Name2.resources
+C:\Users\kier\Desktop\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.exe
+C:\Users\kier\Desktop\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.xml
+C:\Users\kier\Desktop\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.pdb
+C:\Users\kier\Desktop\Bicera_Project_Finals_IT7\Bicera_Project_Finals\bin\Debug\Bicera_Project_Finals.exe
+C:\Users\kier\Desktop\Bicera_Project_Finals_IT7\Bicera_Project_Finals\bin\Debug\Bicera_Project_Finals.pdb
+C:\Users\kier\Desktop\Bicera_Project_Finals_IT7\Bicera_Project_Finals\bin\Debug\Bicera_Project_Finals.xml
+C:\Users\kier\Desktop\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kier\Desktop\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Edit_Name.resources
+C:\Users\kier\Desktop\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Edit_Name2.resources
+C:\Users\kier\Desktop\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.LOGIN.resources
+C:\Users\kier\Desktop\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Manager.resources
+C:\Users\kier\Desktop\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Resources.resources
+C:\Users\kier\Desktop\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Teller.resources
+C:\Users\kier\Desktop\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.vbproj.GenerateResource.Cache
+I:\IT CODES etc\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.exe
+I:\IT CODES etc\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.xml
+I:\IT CODES etc\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.pdb
+I:\IT CODES etc\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\bin\Debug\Bicera_Project_Finals.exe
+I:\IT CODES etc\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\bin\Debug\Bicera_Project_Finals.pdb
+I:\IT CODES etc\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\bin\Debug\Bicera_Project_Finals.xml
+I:\IT CODES etc\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\ResolveAssemblyReference.cache
+I:\IT CODES etc\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Edit_Name.resources
+I:\IT CODES etc\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Edit_Name2.resources
+I:\IT CODES etc\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.LOGIN.resources
+I:\IT CODES etc\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Manager.resources
+I:\IT CODES etc\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Resources.resources
+I:\IT CODES etc\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Teller.resources
+I:\IT CODES etc\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.vbproj.GenerateResource.Cache
+F:\CODES\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.exe
+F:\CODES\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.xml
+F:\CODES\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.pdb
+F:\CODES\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\bin\Debug\Bicera_Project_Finals.exe
+F:\CODES\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\bin\Debug\Bicera_Project_Finals.pdb
+F:\CODES\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\bin\Debug\Bicera_Project_Finals.xml
+F:\CODES\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\ResolveAssemblyReference.cache
+F:\CODES\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Edit_Name.resources
+F:\CODES\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Edit_Name2.resources
+F:\CODES\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.LOGIN.resources
+F:\CODES\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Manager.resources
+F:\CODES\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Resources.resources
+F:\CODES\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Teller.resources
+F:\CODES\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.vbproj.GenerateResource.Cache
+E:\Codes\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.exe
+E:\Codes\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.xml
+E:\Codes\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.pdb
+E:\Codes\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\bin\Debug\Bicera_Project_Finals.exe
+E:\Codes\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\bin\Debug\Bicera_Project_Finals.pdb
+E:\Codes\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\bin\Debug\Bicera_Project_Finals.xml
+E:\Codes\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\ResolveAssemblyReference.cache
+E:\Codes\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Edit_Name.resources
+E:\Codes\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Edit_Name2.resources
+E:\Codes\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.LOGIN.resources
+E:\Codes\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Manager.resources
+E:\Codes\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Resources.resources
+E:\Codes\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.Teller.resources
+E:\Codes\IT7\Bicera_Project_Finals_IT7\Bicera_Project_Finals\obj\Debug\Bicera_Project_Finals.vbproj.GenerateResource.Cache
